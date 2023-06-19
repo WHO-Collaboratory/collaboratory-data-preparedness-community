@@ -17,7 +17,7 @@ We are building a welcoming and diverse global community from a range of discipl
 
 ## Contribute
 <p>You can contribute by posting questions, participating in discussions as well as sharing ideas, tools, resources, and best practices.</p>
-This is a public repository, please feel free to invite other interested experts by sharing this [link](https://github.com/WHO-Collaboratory/collaboratory-data-preparedness-community) with them.
+This is a public repository, please feel free to invite other interested experts by sharing the following link with them: https://github.com/WHO-Collaboratory/collaboratory-data-preparedness-community
 
 ## Contact
 For more information on this project, you can contact us at collaboratory@who.int
